@@ -13,12 +13,14 @@ public class ConcatOperator {
 		
 		
 		
-		// Peter whose age is 45 earns salary 456.12 dollars
+		// James whose age is 55 earns salary 557.12 dollars
 		
 		
 		
 		
-		System.out.println(name+" whose age is "+age+" earns salary "+salary+"dollars ");
+		System.out.println("name whose age is age earns salary salary");
+		System.out.println(name+ " whose age is "+age+" earns salary "+salary);
+		
 
 	}
 

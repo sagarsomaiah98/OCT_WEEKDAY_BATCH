@@ -12,6 +12,8 @@ public class Double_Example {
 		
 		double t=48.95;
 		
+		System.out.println(t);
+		
 
 	}
 
