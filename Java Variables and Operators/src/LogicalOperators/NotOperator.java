@@ -11,7 +11,13 @@ public class NotOperator {
 		System.out.println(h&& m);//false
 		System.out.println(!(h&&m));// not false
 		System.out.println(h||m);  //true
-
+		
+		
+		int a=10;
+		
+		
+		if(!(a==20))
+       System.out.println("a is equal to 20");
 	}
 
 }
