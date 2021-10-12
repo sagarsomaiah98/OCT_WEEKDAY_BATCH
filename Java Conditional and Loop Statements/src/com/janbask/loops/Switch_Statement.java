@@ -4,7 +4,7 @@ public class Switch_Statement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int marks=0;
+		int marks=30;
 		
 		switch(marks) {  /// switch (10)
 		

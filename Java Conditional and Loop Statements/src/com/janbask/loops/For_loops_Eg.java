@@ -1,15 +1,22 @@
 package com.janbask.loops;
 
-public class For_Loop_Example {
+public class For_loops_Eg {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		
-		for(int j=3;j<=24;j=j+3)
+		
+		for(int i=7;i>15;i++)
+		{
 			
-			System.out.println(j);
+		System.out.println(i);	
+			
+		}
 
+		
+			
+			
 	}
 
 }
