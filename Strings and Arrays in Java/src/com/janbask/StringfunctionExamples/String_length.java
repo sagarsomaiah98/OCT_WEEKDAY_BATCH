@@ -1,13 +1,13 @@
 package com.janbask.StringfunctionExamples;
 
-public class String_CharAt {
+public class String_length {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
 		String value="WELCOME TO JANBASK";
 		
-		System.out.println(value.charAt(17));
+		System.out.println(value.length());
 
 	}
 
