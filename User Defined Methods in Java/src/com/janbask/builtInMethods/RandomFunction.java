@@ -1,12 +1,12 @@
 package com.janbask.builtInMethods;
 import java.util.Date;
 
-public class DateFunction {
+public class RandomFunction {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
-		Date d= new Date();
+		
 		
 		
 		

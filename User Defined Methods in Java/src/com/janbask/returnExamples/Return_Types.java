@@ -14,9 +14,7 @@ public class Return_Types {
 		
 		age=age+10;// 
 		
-		age = age*0;
 		
-		age= age-2;
 		
 		
 		
@@ -32,9 +30,11 @@ public class Return_Types {
 	public static void main(String[] args) {
 		Return_Types r = new Return_Types();
 		
+		int value=r.print_age(50);
+		
+		System.out.println(value);
 		
 		
-		System.out.println(r.print_age(30));
 		
 
 	}
