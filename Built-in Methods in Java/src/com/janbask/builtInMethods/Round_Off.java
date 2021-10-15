@@ -10,6 +10,8 @@ double d= 10.26555;
 		
 		//System.out.println(d);
 		System.out.println(Math.round(d));
+		
+		
 	}
 
 }
