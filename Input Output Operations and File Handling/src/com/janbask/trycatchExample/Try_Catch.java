@@ -15,8 +15,19 @@ public class Try_Catch {
 		System.out.println(" line 2");
 	
 	
-		
+		try {
 		System.out.println(a[4]);
+		
+		}
+		catch(Exception e) {
+			
+			System.out.println("Catch block");
+			System.out.println("Error found ");
+			
+			// to print the exception in case exception found
+			e.printStackTrace();
+			
+		}
 		
 		System.out.println(" line 3");
 		System.out.println(" line 4");

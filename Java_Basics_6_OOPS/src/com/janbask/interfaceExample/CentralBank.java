@@ -1,5 +1,5 @@
 package com.janbask.interfaceExample;
-public interface Bank {
+public interface CentralBank {
 	
 	//no implementation 
 	

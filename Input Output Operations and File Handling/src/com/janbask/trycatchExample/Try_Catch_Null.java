@@ -18,6 +18,10 @@ public class Try_Catch_Null {
 			
 		}
 		
+		System.out.println("Continue the test");
+		
+		System.out.println("End of the program");
+		
 	}
 
 }

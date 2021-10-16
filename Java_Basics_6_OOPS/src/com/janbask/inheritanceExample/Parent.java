@@ -1,6 +1,9 @@
 package com.janbask.inheritanceExample;
 
-public class Parent {
+public class Parent  {
+	
+	public int money=9000;
+	public String Lastname="Henry";
 	
 	public void bike() {
 		
@@ -13,7 +16,18 @@ public class Parent {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Parent p=new Parent();
+		
+		System.out.println(p.money);
+		System.out.println(p.Lastname);
+		p.bike();
+		p.house();
+		
+		//Parent cannot inherit the child properties
+	//	p.car();
+	//	p.Factory();
+		
 
 	}
 

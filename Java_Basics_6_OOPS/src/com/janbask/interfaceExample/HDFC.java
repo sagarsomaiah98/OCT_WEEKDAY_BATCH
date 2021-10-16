@@ -1,5 +1,5 @@
 package com.janbask.interfaceExample;
-public class HDFC implements Bank{
+public class HDFC implements CentralBank{
 	
 	
 	

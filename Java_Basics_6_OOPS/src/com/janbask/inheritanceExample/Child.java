@@ -1,6 +1,6 @@
 package com.janbask.inheritanceExample;
 
-public class Child extends Parent{
+public class Child extends Parent {
 	
 	
 	public void car() {
@@ -25,6 +25,9 @@ public void factory() {
 		c.factory();
 		c.bike();
 		c.house();
+		System.out.println(c.Lastname);
+		System.out.println(c.money);
+		
 		
 		
 		
