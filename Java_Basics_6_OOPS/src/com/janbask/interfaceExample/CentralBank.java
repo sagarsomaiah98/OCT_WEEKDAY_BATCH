@@ -12,5 +12,10 @@ public interface CentralBank {
 	
 	
 	public void insurance();
+	
+	
+	public void kyc() ;
+		
+		
 
 }

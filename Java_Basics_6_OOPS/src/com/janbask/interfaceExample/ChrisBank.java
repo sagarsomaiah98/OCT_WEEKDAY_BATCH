@@ -36,4 +36,10 @@ public class ChrisBank implements CentralBank {
 		System.out.println("Chris bank insurance for quater is 25 $");
 	}
 
+	@Override
+	public void kyc() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

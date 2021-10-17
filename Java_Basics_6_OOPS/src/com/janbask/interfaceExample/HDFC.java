@@ -41,4 +41,11 @@ public class HDFC implements CentralBank{
 		System.out.println(" loan interest 2%");
 	}
 
+
+	@Override
+	public void kyc() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

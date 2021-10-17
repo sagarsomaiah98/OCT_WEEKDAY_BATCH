@@ -26,4 +26,10 @@ public class XYz_Bank implements CentralBank {
 		
 	}
 
+	@Override
+	public void kyc() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

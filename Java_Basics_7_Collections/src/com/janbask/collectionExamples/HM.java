@@ -15,18 +15,21 @@ public class HM {
 	   map.put(2,"Apple");    
 	   map.put(3,"Banana");   
 	   map.put(4,"Grapes");  
-	   map.put(3,"Apple");  
+	   map.put(3,"Apple"); 
+	   map.put(1, "Peach");
 	   
-	 //  System.out.println(map);
+	//  System.out.println(map);
 	   
-	   System.out.println(map.get(1));
+	//   System.out.println(map.get(5));
 	   
 	   
 	       
 		
-		  System.out.println("Iterating Hashmap..."); 
+		//  System.out.println("Iterating Hashmap..."); 
+	   
 		  for(Map.Entry m : map.entrySet()){
-			  System.out.println(m.getKey()+" "+m.getValue()); }
+			 System.out.println(m.getKey()+" "+m.getValue()); 
+			  }
 		  
 	}
 }

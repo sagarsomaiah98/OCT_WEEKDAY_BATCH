@@ -18,3 +18,9 @@
 2021-10-16 06:34:51,292 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKDAY BATCH SEP\DATA_PARAMETRIZATION\src\main\resources
 2021-10-16 06:34:51,295 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-10-16 06:34:51,295 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKDAY BATCH SEP\DATA_PARAMETRIZATION\src\test\resources
+2021-10-16 19:23:24,897 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 19:23:24,905 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKDAY BATCH SEP\DATA_PARAMETRIZATION\src\main\resources
+2021-10-16 19:23:24,909 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-10-16 19:23:24,910 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\WEEKDAY BATCH SEP\DATA_PARAMETRIZATION\src\test\resources
+2021-10-16 19:23:41,945 [Worker-21: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-10-17 19:23:56,057 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
