@@ -1,0 +1,258 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Login Test",
+        "description": "",
+        "id": "login-to-the-application;login-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 352652300,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I launch the chrome browser",
+            "match": {
+              "location": "LoginStepDefinition.i_launch_the_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2997700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I enter the url \"https://wwww.saucelabs.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://wwww.saucelabs.com",
+                  "offset": 17
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_url(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 143500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter the username \"standarduser\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standarduser",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_username(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 183100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter the password \"secretsauce1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secretsauce1",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_password(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 102100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginStepDefinition.i_click_submit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 85900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am logged in successfully",
+            "match": {
+              "location": "LoginStepDefinition.i_am_logged_in_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login to the application",
+    "description": "",
+    "id": "login-to-the-application",
+    "keyword": "Feature",
+    "uri": "login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "LogOut Test",
+        "description": "",
+        "id": "logout--of-the-application;logout-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 109100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "I launch the chrome browser",
+            "match": {
+              "location": "LoginStepDefinition.i_launch_the_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 224600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I enter the url \"https://wwww.saucelabs.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "https://wwww.saucelabs.com",
+                  "offset": 17
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_url(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 185800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I enter the username \"standarduser\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standarduser",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_username(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 140300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter the password \"secretsauce1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "secretsauce1",
+                  "offset": 22
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_password(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 73900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginStepDefinition.i_click_submit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 134500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am logged in successfully",
+            "match": {
+              "location": "LoginStepDefinition.i_am_logged_in_successfully()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 248000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click menu",
+            "match": {
+              "location": "LogOutStepDefinition.i_click_menu()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 136600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click logout",
+            "match": {
+              "location": "LogOutStepDefinition.i_click_logout()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 81900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am logged out of the application",
+            "match": {
+              "location": "LogOutStepDefinition.i_am_logged_out_of_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Logout  of the application",
+    "description": "",
+    "id": "logout--of-the-application",
+    "keyword": "Feature",
+    "uri": "logout.feature"
+  }
+]

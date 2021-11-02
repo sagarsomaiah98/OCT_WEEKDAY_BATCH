@@ -1,0 +1,21 @@
+Feature: Login to the application
+
+  Scenario: Login Test                                [90m# login.feature:2[0m
+    [32mGiven [0m[32mI launch the chrome browser[0m                 [90m# LoginStepDefinition.i_launch_the_chrome_browser()[0m
+    [32mWhen [0m[32mI enter the url "[0m[32m[1mhttps://wwww.saucelabs.com[0m[32m"[0m [90m# LoginStepDefinition.i_enter_the_url(String)[0m
+    [32mAnd [0m[32mI enter the username "[0m[32m[1mstandarduser[0m[32m"[0m           [90m# LoginStepDefinition.i_enter_the_username(String)[0m
+    [32mAnd [0m[32mI enter the password "[0m[32m[1msecretsauce1[0m[32m"[0m           [90m# LoginStepDefinition.i_enter_the_password(String)[0m
+    [32mAnd [0m[32mI click submit[0m                                [90m# LoginStepDefinition.i_click_submit()[0m
+    [32mThen [0m[32mI am logged in successfully[0m                  [90m# LoginStepDefinition.i_am_logged_in_successfully()[0m
+Feature: Logout  of the application
+
+  Scenario: LogOut Test                               [90m# logout.feature:2[0m
+    [32mGiven [0m[32mI launch the chrome browser[0m                 [90m# LoginStepDefinition.i_launch_the_chrome_browser()[0m
+    [32mWhen [0m[32mI enter the url "[0m[32m[1mhttps://wwww.saucelabs.com[0m[32m"[0m [90m# LoginStepDefinition.i_enter_the_url(String)[0m
+    [32mAnd [0m[32mI enter the username "[0m[32m[1mstandarduser[0m[32m"[0m           [90m# LoginStepDefinition.i_enter_the_username(String)[0m
+    [32mAnd [0m[32mI enter the password "[0m[32m[1msecretsauce1[0m[32m"[0m           [90m# LoginStepDefinition.i_enter_the_password(String)[0m
+    [32mAnd [0m[32mI click submit[0m                                [90m# LoginStepDefinition.i_click_submit()[0m
+    [32mThen [0m[32mI am logged in successfully[0m                  [90m# LoginStepDefinition.i_am_logged_in_successfully()[0m
+    [32mAnd [0m[32mI click menu[0m                                  [90m# LogOutStepDefinition.i_click_menu()[0m
+    [32mAnd [0m[32mI click logout[0m                                [90m# LogOutStepDefinition.i_click_logout()[0m
+    [32mThen [0m[32mI am logged out of the application[0m           [90m# LogOutStepDefinition.i_am_logged_out_of_the_application()[0m

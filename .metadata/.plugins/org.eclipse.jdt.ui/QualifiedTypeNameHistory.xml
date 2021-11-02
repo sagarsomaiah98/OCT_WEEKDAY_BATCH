@@ -24,13 +24,19 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
     <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
-    <fullyQualifiedTypeName name="io.github.bonigarcia.wdm.WebDriverManager"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="com.sauce.pages.LoginPage"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterMethod"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="com.sauce.pages.HomePage"/>
+    <fullyQualifiedTypeName name="com.sauce.pages.OrderPage"/>
+    <fullyQualifiedTypeName name="com.sauce.pages.CheckoutPage"/>
+    <fullyQualifiedTypeName name="com.sauce.testbase.TestBase"/>
+    <fullyQualifiedTypeName name="com.sauce.pages.CheckoutOverViewPage"/>
 </qualifiedTypeNameHistroy>

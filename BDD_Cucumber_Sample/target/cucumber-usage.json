@@ -1,0 +1,188 @@
+[
+  {
+    "source": "^I click menu$",
+    "steps": [
+      {
+        "name": "I click menu",
+        "aggregatedDurations": {
+          "average": 0.000248,
+          "median": 0.000248
+        },
+        "durations": [
+          {
+            "duration": 0.000248,
+            "location": "logout.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter the url \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter the url \"https://wwww.saucelabs.com\"",
+        "aggregatedDurations": {
+          "average": 0.00161115,
+          "median": 0.00161115
+        },
+        "durations": [
+          {
+            "duration": 0.0029977,
+            "location": "login.feature:4"
+          },
+          {
+            "duration": 0.0002246,
+            "location": "logout.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click submit$",
+    "steps": [
+      {
+        "name": "I click submit",
+        "aggregatedDurations": {
+          "average": 0.000088,
+          "median": 0.000088
+        },
+        "durations": [
+          {
+            "duration": 0.0001021,
+            "location": "login.feature:7"
+          },
+          {
+            "duration": 0.0000739,
+            "location": "logout.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click logout$",
+    "steps": [
+      {
+        "name": "I click logout",
+        "aggregatedDurations": {
+          "average": 0.0001366,
+          "median": 0.0001366
+        },
+        "durations": [
+          {
+            "duration": 0.0001366,
+            "location": "logout.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter the password \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter the password \"secretsauce1\"",
+        "aggregatedDurations": {
+          "average": 0.0001617,
+          "median": 0.0001617
+        },
+        "durations": [
+          {
+            "duration": 0.0001831,
+            "location": "login.feature:6"
+          },
+          {
+            "duration": 0.0001403,
+            "location": "logout.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am logged out of the application$",
+    "steps": [
+      {
+        "name": "I am logged out of the application",
+        "aggregatedDurations": {
+          "average": 0.0000819,
+          "median": 0.0000819
+        },
+        "durations": [
+          {
+            "duration": 0.0000819,
+            "location": "logout.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I enter the username \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter the username \"standarduser\"",
+        "aggregatedDurations": {
+          "average": 0.00016465,
+          "median": 0.00016465
+        },
+        "durations": [
+          {
+            "duration": 0.0001435,
+            "location": "login.feature:5"
+          },
+          {
+            "duration": 0.0001858,
+            "location": "logout.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I launch the chrome browser$",
+    "steps": [
+      {
+        "name": "I launch the chrome browser",
+        "aggregatedDurations": {
+          "average": 0.1763807,
+          "median": 0.1763807
+        },
+        "durations": [
+          {
+            "duration": 0.3526523,
+            "location": "login.feature:3"
+          },
+          {
+            "duration": 0.0001091,
+            "location": "logout.feature:3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I am logged in successfully$",
+    "steps": [
+      {
+        "name": "I am logged in successfully",
+        "aggregatedDurations": {
+          "average": 0.0001102,
+          "median": 0.0001102
+        },
+        "durations": [
+          {
+            "duration": 0.0000859,
+            "location": "login.feature:8"
+          },
+          {
+            "duration": 0.0001345,
+            "location": "logout.feature:8"
+          }
+        ]
+      }
+    ]
+  }
+]
