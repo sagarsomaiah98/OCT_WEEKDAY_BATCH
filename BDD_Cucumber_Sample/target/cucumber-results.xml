@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.3575">
-    <testcase classname="Login to the application" name="Login Test" time="0.356165">
-        <system-out><![CDATA[Given I launch the chrome browser...........................................passed
-When I enter the url "https://wwww.saucelabs.com"...........................passed
-And I enter the username "standarduser".....................................passed
-And I enter the password "secretsauce1".....................................passed
-And I click submit..........................................................passed
-Then I am logged in successfully............................................passed
-]]></system-out>
-    </testcase>
-    <testcase classname="Logout  of the application" name="LogOut Test" time="0.001335">
-        <system-out><![CDATA[Given I launch the chrome browser...........................................passed
-When I enter the url "https://wwww.saucelabs.com"...........................passed
-And I enter the username "standarduser".....................................passed
-And I enter the password "secretsauce1".....................................passed
-And I click submit..........................................................passed
-Then I am logged in successfully............................................passed
-And I click menu............................................................passed
-And I click logout..........................................................passed
-Then I am logged out of the application.....................................passed
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.726213">
+    <testcase classname="Login to orange hrm application" name="Login Orange Test" time="21.726213">
+        <system-out><![CDATA[Given I launch the Firefox Browser..........................................passed
+When I navigate to url......................................................passed
+And I enter the username....................................................passed
+And I enter the password....................................................passed
+And I click on login........................................................passed
+Then I am on home page......................................................passed
 ]]></system-out>
     </testcase>
 </testsuite>
