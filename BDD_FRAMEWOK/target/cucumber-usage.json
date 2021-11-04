@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^I enter the username \"([^\"]*)\" and enter the password \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "I enter the username \"standard_user\" and enter the password \"secret_sauce\"",
+        "aggregatedDurations": {
+          "average": 0.4213493,
+          "median": 0.4213493
+        },
+        "durations": [
+          {
+            "duration": 0.4213493,
+            "location": "D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/LogOut.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I click submit$",
+    "steps": [
+      {
+        "name": "I click submit",
+        "aggregatedDurations": {
+          "average": 0.5432753,
+          "median": 0.5432753
+        },
+        "durations": [
+          {
+            "duration": 0.5432753,
+            "location": "D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/LogOut.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I logOut$",
+    "steps": [
+      {
+        "name": "I logOut",
+        "aggregatedDurations": {
+          "average": 2.4363525,
+          "median": 2.4363525
+        },
+        "durations": [
+          {
+            "duration": 2.4363525,
+            "location": "D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/LogOut.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Launch the browser and enter the url$",
+    "steps": [
+      {
+        "name": "Launch the browser and enter the url",
+        "aggregatedDurations": {
+          "average": 5.1222659,
+          "median": 5.1222659
+        },
+        "durations": [
+          {
+            "duration": 5.1222659,
+            "location": "D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/LogOut.feature:3"
+          }
+        ]
+      }
+    ]
+  }
+]

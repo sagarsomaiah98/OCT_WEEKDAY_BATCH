@@ -1,9 +1,6 @@
-Feature: Login to orange hrm application
+Feature: Login to application
 
-  Scenario: Login Orange Test          [90m# D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_Cucumber_Sample/Features/OrangeLogin.feature:2[0m
-    [32mGiven [0m[32mI launch the Firefox Browser[0m [90m# LoginOrangeStepDefinition.i_launch_the_Firefox_Browser()[0m
-    [32mWhen [0m[32mI navigate to url[0m             [90m# LoginOrangeStepDefinition.i_navigate_to_url()[0m
-    [32mAnd [0m[32mI enter the username[0m           [90m# LoginOrangeStepDefinition.i_enter_the_username()[0m
-    [32mAnd [0m[32mI enter the password[0m           [90m# LoginOrangeStepDefinition.i_enter_the_password()[0m
-    [32mAnd [0m[32mI click on login[0m               [90m# LoginOrangeStepDefinition.i_click_on_login()[0m
-    [32mThen [0m[32mI am on home page[0m             [90m# LoginOrangeStepDefinition.i_am_on_home_page()[0m
+  Scenario: Login                                                                   [90m# D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/Login.feature:2[0m
+    [33mGiven [0m[33mLaunch the browser and enter the url[0m
+    [33mWhen [0m[33mI enter the username "standard_user" and enter the password "secret_sauce"[0m
+    [36mThen [0m[36mI click submit[0m                                                             [90m# LoginStepDefinition.i_click_submit()[0m

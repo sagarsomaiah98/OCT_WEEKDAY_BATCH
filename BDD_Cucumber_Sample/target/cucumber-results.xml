@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.726213">
-    <testcase classname="Login to orange hrm application" name="Login Orange Test" time="21.726213">
-        <system-out><![CDATA[Given I launch the Firefox Browser..........................................passed
-When I navigate to url......................................................passed
-And I enter the username....................................................passed
-And I enter the password....................................................passed
-And I click on login........................................................passed
-Then I am on home page......................................................passed
-]]></system-out>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+    <testcase classname="Login to application" name="Login" time="0">
+        <skipped><![CDATA[Given Launch the browser and enter the url..................................undefined
+When I enter the username "standard_user" and enter the password "secret_sauce".undefined
+Then I click submit.........................................................skipped
+]]></skipped>
     </testcase>
 </testsuite>

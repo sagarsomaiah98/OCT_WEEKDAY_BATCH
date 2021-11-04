@@ -1,0 +1,80 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "LogOut",
+        "description": "",
+        "id": "logout-of-the-application;logout",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5122265900,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Launch the browser and enter the url",
+            "match": {
+              "location": "LoginStepDefinition.launch_the_browser_and_enter_the_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 421349300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I enter the username \"standard_user\" and enter the password \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "standard_user",
+                  "offset": 22
+                },
+                {
+                  "val": "secret_sauce",
+                  "offset": 61
+                }
+              ],
+              "location": "LoginStepDefinition.i_enter_the_username_and_enter_the_password(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 543275300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click submit",
+            "match": {
+              "location": "LoginStepDefinition.i_click_submit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2436352500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I logOut",
+            "match": {
+              "location": "LogOutStepDefintion.i_logOut()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Logout of the application",
+    "description": "",
+    "id": "logout-of-the-application",
+    "keyword": "Feature",
+    "uri": "D:/JANBASK/OCT_WEEKDAY_BATCH/BDD_FRAMEWOK/src/main/java/Features/LogOut.feature"
+  }
+]
