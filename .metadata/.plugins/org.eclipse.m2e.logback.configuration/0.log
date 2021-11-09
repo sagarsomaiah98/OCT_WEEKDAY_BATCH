@@ -1391,3 +1391,63 @@ org.eclipse.core.runtime.CoreException: Launch configuration LoginTest reference
 2021-11-04 20:36:07,667 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\main\resources
 2021-11-04 20:36:07,667 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-04 20:36:07,667 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\test\resources
+2021-11-05 19:55:44,192 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-05 19:55:49,502 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:55:49,502 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_Cucumber_Sample\src\main\resources
+2021-11-05 19:55:49,506 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:55:49,506 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_Cucumber_Sample\src\test\resources
+2021-11-05 19:55:51,145 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:55:51,172 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\main\resources
+2021-11-05 19:55:51,183 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-05 19:55:51,184 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\test\resources
+2021-11-08 14:14:04,370 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-11-08 18:18:16,677 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-11-08 19:00:54,697 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDD_CRM:BDD_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_CRM\pom.xml.
+2021-11-08 19:00:56,536 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BDD_CRM/src/main/java
+2021-11-08 19:00:56,538 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BDD_CRM/src/test/java
+2021-11-08 19:00:56,879 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2021-11-08 19:00:58,418 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:00:58,419 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_CRM\src\main\resources
+2021-11-08 19:00:58,422 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:00:58,422 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_CRM\src\test\resources
+2021-11-08 19:01:02,055 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:02,056 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_Cucumber_Sample\src\main\resources
+2021-11-08 19:01:02,058 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:02,059 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_Cucumber_Sample\src\test\resources
+2021-11-08 19:01:14,426 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:14,427 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\main\resources
+2021-11-08 19:01:14,428 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:14,429 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\BDD_FRAMEWOK\src\test\resources
+2021-11-08 19:01:15,200 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDD_CRM:BDD_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\pom.xml.
+2021-11-08 19:01:15,851 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:15,852 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\main\resources
+2021-11-08 19:01:15,854 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:15,855 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\test\resources
+2021-11-08 19:01:17,727 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:17,727 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\PageObjectModel\src\main\resources
+2021-11-08 19:01:17,729 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:17,730 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\PageObjectModel\src\test\resources
+2021-11-08 19:01:18,067 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:18,067 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Sample_Maven\src\main\resources
+2021-11-08 19:01:18,069 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:18,069 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Sample_Maven\src\test\resources
+2021-11-08 19:01:20,139 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:20,140 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\main\resources
+2021-11-08 19:01:20,142 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:20,142 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\test\resources
+2021-11-08 19:01:27,661 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-11-08 19:01:27,945 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.janbask.pom:PageObjectModel:0.0.1-SNAPSHOT @ D:\JANBASK\OCT_WEEKDAY_BATCH\PageObjectModel\pom.xml.
+2021-11-08 19:01:28,236 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BDD_CRM:BDD_CRM:0.0.1-SNAPSHOT @ D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\pom.xml.
+2021-11-08 19:01:29,666 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-11-08 19:01:29,975 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/messages/maven-metadata.xml
+2021-11-08 19:01:30,868 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumber_Core_Features/src/main/java
+2021-11-08 19:01:30,869 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumber_Core_Features/src/test/java
+2021-11-08 19:01:31,572 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2021-11-08 19:01:32,033 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:32,034 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\main\resources
+2021-11-08 19:01:32,036 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:32,036 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\Cucumber_Core_Features\src\test\resources
+2021-11-08 19:01:32,334 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:32,334 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\PageObjectModel\src\main\resources
+2021-11-08 19:01:32,336 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-11-08 19:01:32,337 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JANBASK\OCT_WEEKDAY_BATCH\PageObjectModel\src\test\resources

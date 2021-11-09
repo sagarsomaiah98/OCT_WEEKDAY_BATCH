@@ -52,4 +52,5 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="com.sauce.testutil.TestUtil"/>
     <fullyQualifiedTypeName name="com.sauce.testbase.TestBase"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
 </qualifiedTypeNameHistroy>

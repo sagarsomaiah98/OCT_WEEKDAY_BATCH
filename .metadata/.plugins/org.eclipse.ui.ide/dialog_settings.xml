@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\JANBASK\OCT_WEEKDAY_BATCH\Excel_Read_Write"/>
 			<item value="D:\JANBASK\OCT_WEEKDAY_BATCH\POM_CRM"/>
 			<item value="D:\JANBASK\OCT_WEEKDAY_BATCH\Page_Object_Model_CRM"/>
 			<item value="D:\JANBASK\OCT_WEEKDAY_BATCH\Sauce_Testing_Testng"/>
